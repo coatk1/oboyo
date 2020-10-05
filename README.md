@@ -1,2 +1,0 @@
-# my_template
-Template
