@@ -5,6 +5,9 @@ oboyo
 .. image:: https://img.shields.io/github/repo-size/coatk1/oboyo
  :target: https://github.com/coatk1/oboyo
 
+.. image:: https://github.com/coatk1/oboyo/workflows/Check/badge.svg
+ :target: https://github.com/coatk1/oboyo/actions?query=workflow%3ACheck
+
 .. image:: https://anaconda.org/coatk1/oboyo/badges/version.svg
  :target: https://anaconda.org/coatk1/oboyo
 
