@@ -1,0 +1,13 @@
+package:
+  name: oboyo
+  version: 1.0.0
+
+build:
+  noarch: python
+  number: 1
+
+requirements:
+  run:
+    - python
+about:
+  summary: This is a simple meta-package
