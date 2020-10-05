@@ -3,7 +3,7 @@ oboyo
 ===========
 
 .. image:: https://img.shields.io/github/repo-size/coatk1/oboyo
- :target: GitHub repo size
+ :target: https://github.com/coatk1/oboyo
 
 .. image:: https://anaconda.org/coatk1/oboyo/badges/version.svg
  :target: https://anaconda.org/coatk1/oboyo
