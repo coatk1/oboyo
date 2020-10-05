@@ -4,7 +4,7 @@
 #
 # Update metadata and publish a new build with source distribution.
 # python setup.py sdist upload
-# twine upload dist/
+# twine upload dist/*
 
 # Wheel: installation method for builds on Python packages.
 #
