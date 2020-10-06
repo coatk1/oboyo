@@ -3,8 +3,9 @@
 # Egg: importable methods for builds on Python packages.
 #
 # Update metadata and publish a new build with source distribution.
-# python setup.py sdist upload
-# twine upload dist/*
+# python setup.py sdist
+# twine upload dist/*version_number.tar.gz
+# anaconda upload dist/*version_number.tar.gz
 
 # Wheel: installation method for builds on Python packages.
 #
