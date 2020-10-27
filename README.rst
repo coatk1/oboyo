@@ -20,6 +20,9 @@ oboyo
 .. image:: https://img.shields.io/pypi/v/oboyo
  :target: https://pypi.org/project/oboyo/
 
+.. image:: https://img.shields.io/pypi/pyversions/oboyo
+ :target: https://pypi.org/project/oboyo/
+
 .. image:: https://img.shields.io/codeclimate/maintainability/coatk1/oboyo 
   :target: https://codeclimate.com/github/coatk1/oboyo
 
